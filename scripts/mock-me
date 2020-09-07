@@ -1,0 +1,12 @@
+#! /bin/bash
+# ----------------------------------------------------------------
+# Mock Me
+#
+# Testing mock scripts with the script development workflow
+#
+# Usage:
+# mock-me
+# ----------------------------------------------------------------
+echo -e "Hello, let see if the mock process works! What is your name?"
+read NAME
+echo "Sup, $NAME hehe..."
